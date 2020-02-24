@@ -1,0 +1,188 @@
+{
+    "laptop": [{
+        "macbookPro": {
+            "additionalFeatures": "Front Facing 1.3MP Camera",
+            "os": "Macintosh OS X 10.7",
+            "battery": {
+                "type": "Lithium Ion (Li-Ion) (7000 mAH)",
+                "standbytime": "24 hours"
+            },
+            "camera": {
+                "features": [
+                    "Flash",
+                    "Video"
+                ],
+                "primary": "5.0 megapixels"
+            },
+            "connectivity": {
+                "bluetooth": "Bluetooth 2.1",
+                "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz",
+                "gps": true,
+                "infrared": false,
+                "wifi": "802.11 b/g"
+            },
+            "description": "Flipkart Apple iBook is the best in class computer for your professional and personal work.",
+            "display": {
+                "screenResolution": "WVGA (1280 x 968)",
+                "screenSize": "13.0 inches"
+            },
+            "hardware": {
+                "accelerometer": true,
+                "audioJack": "3.5mm",
+                "cpu": "Intel i7 2.5 GHz",
+                "fmRadio": false,
+                "physicalKeyboard": false,
+                "usb": "USB 3.0"
+            },
+            "id": "flipkartproduct_1",
+            "imageUrl": [
+                "img/apple-laptop.jpg"
+            ],
+            "name": "Flipkart.com : Apple iBook",
+            "sizeAndWeight": {
+                "dimensions": [
+                    "300 mm (w)",
+                    "300 mm (h)",
+                    "12.4 mm (d)"
+                ],
+                "weight": "1250.0 grams"
+            },
+            "storage": {
+                "hdd": "750GB",
+                "ram": "8GB"
+            }
+        }
+    }],
+    "shoes": [{
+            "nike": {
+                "name": "Nike Air",
+                "price": "₹ 3000",
+                "image": " "
+            }
+        },
+        {
+            "adidas": {
+                "name": "Adidas cloud form",
+                "price": "₹ 3000",
+                "image": " "
+            }
+        },
+        {
+            "puma": {
+                "name": "Archiver",
+                "price": "₹ 3000",
+                "image": " "
+            }
+        },
+        {
+            "allen Solly": {
+                "name": "Lighter",
+                "price": "₹ 3000",
+                "image": " "
+            }
+        },
+        {
+            "bata": {
+                "name": "Air Flow",
+                "price": "₹ 3000",
+                "image": " "
+            }
+        }
+    ],
+    "tshirt": [{
+            "alley solly": {
+                "name": "Alley Solly - x",
+                "price": "₹ 2000",
+                "size": "XS",
+                "image": " "
+            }
+        },
+        {
+            "ucb": {
+                "name": "UCB",
+                "price": "₹ 2000",
+                "size": "XL",
+                "image": " "
+            }
+        },
+        {
+            "adidas": {
+                "name": "Night Zoom",
+                "price": "₹ 2000",
+                "size": "S",
+                "image": " "
+            }
+        },
+        {
+            "roadster": {
+                "name": "Funk",
+                "price": "₹ 2000",
+                "size": "L",
+                "image": " "
+            }
+        }
+    ],
+    "wallet": [{
+            "woodland": {
+                "name": "Woodland wallet",
+                "price": "300",
+                "imageUrl": " "
+            }
+        },
+        {
+            "puma": {
+                "name": "Puma wallet",
+                "price": "300",
+                "imageUrl": " "
+            }
+        },
+        {
+            "bata": {
+                "name": "Bata Wallet",
+                "price": "300",
+                "imageUrl": " "
+            }
+        }
+    ],
+    "watch": [{
+            "fossil": {
+                "name": "Fossil",
+                "type": "Standard",
+                "price": "10000",
+                "imageUrl": ""
+            }
+        },
+        {
+            "titan": {
+                "name": "Titan",
+                "type": "Standard",
+                "price": "1000",
+                "imageUrl": ""
+            }
+        },
+        {
+            "sonata": {
+                "name": "Sonata",
+                "price": "100",
+                "type": "Standard",
+                "imageUrl": ""
+            }
+        },
+        {
+            "lenovo": {
+                "name": "Lenovo",
+                "type": "Digital",
+                "price": "10000",
+                "imageUrl": ""
+            }
+        },
+        {
+            "mi": {
+                "name": "Lenovo",
+                "type": "Digital",
+                "price": "10000",
+                "imageUrl": ""
+            }
+        }
+    ]
+}
